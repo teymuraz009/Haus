@@ -1,0 +1,26 @@
+{
+ "id": "gen_2227561877834174465",
+ "object": "media.generation",
+ "status": "completed",
+ "created": 1793396174,
+ "model": "suno/generate",
+ "data": [
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_f78e91c8ae926f83.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_e030d5de5c4fd3a6.jpg",
+   "title": "Первый шаг",
+   "duration": 149.56
+  },
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_cbf99b51e2833106.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_4b53733ea8a69415.jpg",
+   "title": "Первый шаг",
+   "duration": 149.56
+  }
+ ],
+ "usage": {
+  "output_units": 2,
+  "cost_rub": 15,
+  "cost": 15
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "title": "Для тех, кто пропускает фаджр",
+ "scenes": [
+  {"id":"s1","text":"Будильник прозвенел. Ты выключил его… и уснул снова.","imgs":[0,1]},
+  {"id":"s2","text":"А в это время небо уже светлеет. И город ещё спит.","imgs":[2,3]},
+  {"id":"s3","text":"Аллах говорит в Коране: чтение на рассвете — свидетельствуемо. По словам Пророка, мир ему и благословение Аллаха, его видят ангелы ночи и ангелы дня.","imgs":[4],"badge":{"ar":"إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا","ru":"Коран, 17:78"}},
+  {"id":"s4","text":"Пророк сказал: кто совершил утреннюю молитву, тот под защитой Аллаха.","imgs":[5],"badge":{"ru":"Сахих Муслим, 657"}},
+  {"id":"s5","text":"И ещё: два ракаата перед обязательным фаджром лучше, чем этот мир и всё, что в нём.","imgs":[6],"badge":{"ru":"Сахих Муслим, 725"}},
+  {"id":"s6","text":"Сон уйдёт. Усталость уйдёт. А этот рассвет больше не повторится.","imgs":[7]},
+  {"id":"s7","text":"Не вини себя за вчерашнее. Просто встань сегодня. Умойся. Четыре ракаата — вот и всё.","imgs":[8,9]},
+  {"id":"s8","text":"Завтра будильник зазвонит снова. Что ты выберешь?","imgs":[10,11]}
+ ],
+ "style":"cinematic vertical 9:16 illustration, deep indigo blue pre-dawn atmosphere with warm golden light accents, soft haze, minimalist, high detail, serene and reverent mood, no people, no faces, no animals, no text, no letters, no writing",
+ "images":[
+  "a smartphone lying on a dark bedside table, its screen glowing with an alarm, dim blue room, shallow depth of field",
+  "a dark bedroom, curtains with a thin first golden light of dawn leaking in, empty rumpled sheets, nobody in the bed",
+  "silhouette of a city skyline with a mosque dome and slender minaret against a pre-dawn deep blue sky with a faint orange horizon line",
+  "an empty quiet street at pre-dawn with a mosque in the distance glowing softly, streetlights fading, mist",
+  "interior of a mosque at dawn, golden light beams falling through windows onto empty rows of patterned carpet, serene, empty hall",
+  "a glowing lantern in the dark surrounded by a soft protective dome of warm light, starry night sky above",
+  "vast desert dunes at sunrise, golden light spilling over rippled sand, clear sky, majestic scale",
+  "a single open wooden door in a dark room with brilliant golden sunrise light streaming in, a long light path on the floor",
+  "an elegant stone ablution basin with water pouring and ripples, warm morning light, deep blue background, close up",
+  "a prayer rug unrolled on the floor of a calm room facing a window with soft sunrise light, minimal, empty room",
+  "a classic alarm clock on a bedside table in blue dawn light, soft glow",
+  "first rays of the sun rising over mountains with misty valleys, calm and hopeful, painterly"
+ ]
+}

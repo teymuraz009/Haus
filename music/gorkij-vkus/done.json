@@ -1,0 +1,26 @@
+{
+ "id": "gen_2227563586386661377",
+ "object": "media.generation",
+ "status": "completed",
+ "created": 1793396583,
+ "model": "suno/generate",
+ "data": [
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_5a47b5db7d1e86c5.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_006c3c0dfb641fdc.jpg",
+   "title": "Горький вкус",
+   "duration": 149.56
+  },
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_fa5c696d52455d71.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_6cec718b2976fc9f.jpg",
+   "title": "Горький вкус",
+   "duration": 148.96
+  }
+ ],
+ "usage": {
+  "output_units": 2,
+  "cost_rub": 15,
+  "cost": 15
+ }
+}

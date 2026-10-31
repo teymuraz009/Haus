@@ -1,0 +1,29 @@
+{
+ "title": "Когда ты в последний раз звонил маме?",
+ "scenes": [
+  {"id":"s1","text":"Когда ты в последний раз звонил маме? Не по делу. Просто так.","imgs":[0]},
+  {"id":"s2","text":"Она до сих пор не спит, пока ты не напишешь, что доехал.","imgs":[2,1]},
+  {"id":"s3","text":"Её тапочки у двери. Её шаль на стуле. Однажды останутся только они.","imgs":[3,4]},
+  {"id":"s4","text":"Человек спросил Пророка, мир ему и благословение Аллаха: кто больше всех достоин моей заботы? Он ответил: твоя мать. Затем — твоя мать. Затем — твоя мать. Затем — твой отец.","imgs":[5],"badge":{"ru":"Аль-Бухари, 5971 · Муслим, 2548"}},
+  {"id":"s5","text":"Аллах велел не говорить им даже «уф». И просить: Господи, помилуй их, как они растили меня маленьким.","imgs":[6],"badge":{"ar":"رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا","ru":"Коран, 17:23–24"}},
+  {"id":"s6","text":"А ты всё откладываешь: потом позвоню, потом приеду. Но «потом» может не наступить.","imgs":[8,9]},
+  {"id":"s7","text":"Позвони сегодня. Скажи: прости. Скажи: спасибо. Скажи, что любишь.","imgs":[10,7]},
+  {"id":"s8","text":"А если их уже нет — сделай за них дуа. Пророк сказал: когда человек умирает, его дела прекращаются, кроме трёх. И одно из них — праведный ребёнок, который молится за него.","imgs":[11],"badge":{"ru":"Сахих Муслим, 1631"}},
+  {"id":"s9","text":"Кому ты позвонишь сегодня?","imgs":[0]}
+ ],
+ "style":"cinematic vertical 9:16 illustration, warm amber lamplight against deep blue night tones, quiet melancholic and tender mood, soft haze, high detail, no people, no faces, no hands, no animals, no text, no letters, no writing",
+ "images":[
+  "a smartphone lying on a wooden kitchen table, its screen softly glowing with an incoming call, warm kitchen at night, shallow depth of field",
+  "a cozy small kitchen at night with a single warm lamp, two cups of tea on the table, one untouched and slowly cooling with faint steam",
+  "one apartment window glowing warm late at night in a dark sleeping apartment block, as if someone inside is still awake and waiting",
+  "a pair of worn soft women's house slippers neatly placed by the front door, warm hallway light",
+  "an old wooden chair by a window with a knitted wool shawl draped over it, gentle morning light, dust in the air",
+  "a closed ornate book with a cloth cover resting on a carved wooden rehal stand, prayer beads beside it, warm candle light, deep blue room",
+  "a prayer rug on the floor with prayer beads, soft dawn light from a window, empty quiet room",
+  "a small bundle of old handwritten letters tied with a faded ribbon on a wooden table beside a dried flower, warm light",
+  "a phone lying face down on a bed in a dark room, cold blue moonlight, silence",
+  "an empty chair at a set dinner table under a warm pendant lamp, one plate untouched, melancholy",
+  "a front door slightly open with warm golden light pouring in from outside onto the hallway floor, welcoming",
+  "a night sky full of stars over a quiet small town, one single warm window light, peaceful and prayerful"
+ ]
+}

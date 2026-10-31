@@ -1,0 +1,391 @@
+{
+ "title": "Он скучал по тебе. Последние дни Пророка ﷺ",
+ "voice": "brian",
+ "gap": 0.6,
+ "aspect": "16:9",
+ "size": [
+  1920,
+  1080
+ ],
+ "scenes": [
+  {
+   "id": "h1",
+   "text": "Однажды Пророк, мир ему и благословение Аллаха, сказал: «Как бы мне хотелось увидеть наших братьев».",
+   "imgs": [
+    0
+   ],
+   "badge": {
+    "ru": "Сахих Муслим, 249"
+   }
+  },
+  {
+   "id": "h2",
+   "text": "Сподвижники спросили: «Разве мы не твои братья, о Посланник Аллаха?» Он ответил: «Вы — мои сподвижники. А наши братья — те, кто ещё не пришёл».",
+   "imgs": [
+    1
+   ],
+   "badge": {
+    "ru": "Сахих Муслим, 249"
+   }
+  },
+  {
+   "id": "h3",
+   "text": "Те, кто ещё не пришёл… Это о тех, кто придёт после. Это… о тебе.",
+   "imgs": [
+    2
+   ],
+   "pause": 1.4
+  },
+  {
+   "id": "p1",
+   "text": "Он думал о нас, ещё не видя нас. А думаем ли мы о нём?",
+   "imgs": [
+    3
+   ]
+  },
+  {
+   "id": "p2",
+   "text": "Давай вспомним, как он прощался с этим миром. И в конце честно спросим себя: что мы сделали с тем, что он нам оставил?",
+   "imgs": [
+    4
+   ],
+   "pause": 1.2
+  },
+  {
+   "id": "c1a",
+   "text": "Десятый год хиджры. Огромные толпы людей пришли совершить хадж вместе с ним.",
+   "imgs": [
+    5
+   ],
+   "chapter": "Прощальный хадж"
+  },
+  {
+   "id": "c1b",
+   "text": "В день жертвоприношения, бросая камешки, он сказал: «Берите у меня обряды вашего хаджа. Ведь я не знаю… возможно, я не совершу хадж после этого».",
+   "imgs": [
+    6
+   ],
+   "badge": {
+    "ru": "Сахих Муслим, 1297"
+   }
+  },
+  {
+   "id": "c1c",
+   "text": "Люди слушали. Но, может быть, тогда ещё не понимали, что он прощается. Этот хадж назовут Прощальным.",
+   "imgs": [
+    7
+   ]
+  },
+  {
+   "id": "c1d",
+   "text": "А ты когда-нибудь думал, какой из твоих намазов станет последним? Какой Рамадан, какая пятница, какой разговор с мамой? Мы прощаемся каждый день… просто не знаем об этом.",
+   "imgs": [
+    8,
+    9
+   ],
+   "pause": 1.2
+  },
+  {
+   "id": "c2a",
+   "text": "Вскоре после возвращения в Медину он заболел. Болезнь усиливалась. Выходить к людям становилось всё труднее. И людей в намазе стал возглавлять Абу Бакр.",
+   "imgs": [
+    10,
+    11
+   ],
+   "badge": {
+    "ru": "Аль-Бухари, 680"
+   },
+   "chapter": "Понедельник"
+  },
+  {
+   "id": "c2b",
+   "text": "Наступил понедельник. Рассвет. Люди стоят рядами на утренней молитве.",
+   "imgs": [
+    12
+   ]
+  },
+  {
+   "id": "c2c",
+   "text": "И вдруг Пророк приподнял занавеску своей комнаты. Посмотрел на них — стоящих рядами в намазе… и улыбнулся.",
+   "imgs": [
+    13
+   ],
+   "badge": {
+    "ru": "Аль-Бухари, 680, 4448"
+   }
+  },
+  {
+   "id": "c2d",
+   "text": "Абу Бакр подумал, что Пророк хочет выйти к молитве, и начал отступать назад. Но Пророк дал знак: завершайте свой намаз. И опустил занавеску.",
+   "imgs": [
+    14
+   ],
+   "badge": {
+    "ru": "Аль-Бухари, 680, 4448"
+   }
+  },
+  {
+   "id": "c2e",
+   "text": "В тот же день его не стало.",
+   "imgs": [
+    15
+   ],
+   "pause": 1.8
+  },
+  {
+   "id": "c2f",
+   "text": "Подумай. Одно из последних, что обрадовало его в этом мире, — ряды людей, стоящих в намазе. Не дворцы. Не богатство. Не победы. Люди, которые встали перед Аллахом.",
+   "imgs": [
+    16,
+    17
+   ]
+  },
+  {
+   "id": "c2g",
+   "text": "А если бы он приподнял занавеску сегодня… увидел бы он тебя в этих рядах?",
+   "imgs": [
+    18
+   ],
+   "pause": 1.4
+  },
+  {
+   "id": "c3a",
+   "text": "Рядом с ним стоял сосуд с водой. Он опускал в него руки, протирал лицо и говорил: «Нет божества, кроме Аллаха. Поистине, у смерти есть муки».",
+   "imgs": [
+    19,
+    20
+   ],
+   "badge": {
+    "ar": "لَا إِلَهَ إِلَّا اللَّهُ، إِنَّ لِلْمَوْتِ سَكَرَاتٍ",
+    "ru": "Аль-Бухари, 4449"
+   },
+   "chapter": "Тяжесть"
+  },
+  {
+   "id": "c3b",
+   "text": "Даже он — лучший из людей — ощутил тяжесть смерти. Задумайся… а что почувствуем мы?",
+   "imgs": [
+    21
+   ]
+  },
+  {
+   "id": "c3c",
+   "text": "Его дочь Фатима, видя, как ему тяжело, воскликнула: «Как тяжело моему отцу!» Он ответил: «После сегодняшнего дня у твоего отца не будет тяжести».",
+   "imgs": [
+    22
+   ],
+   "badge": {
+    "ru": "Аль-Бухари, 4462"
+   }
+  },
+  {
+   "id": "c3d",
+   "text": "Он знал, куда уходит. Его тяжесть заканчивалась. А мы? Мы так боимся смерти… и так мало к ней готовимся.",
+   "imgs": [
+    23
+   ],
+   "pause": 1.2
+  },
+  {
+   "id": "c4a",
+   "text": "Аиша, да будет доволен ею Аллах, рассказывала, что последними его словами были: «О Аллах… к Высшему Спутнику».",
+   "imgs": [
+    24
+   ],
+   "badge": {
+    "ar": "اللَّهُمَّ الرَّفِيقَ الْأَعْلَى",
+    "ru": "Аль-Бухари, 4463 · Муслим, 2444"
+   },
+   "chapter": "Последние слова"
+  },
+  {
+   "id": "c4b",
+   "text": "И его не стало.",
+   "imgs": [
+    25
+   ],
+   "pause": 4.5
+  },
+  {
+   "id": "c5a",
+   "text": "Весть разнеслась по Медине. Люди не могли поверить.",
+   "imgs": [
+    26
+   ],
+   "chapter": "Медина в слезах"
+  },
+  {
+   "id": "c5b",
+   "text": "Тогда вышел Абу Бакр и сказал: «Кто поклонялся Мухаммаду — то Мухаммад умер. А кто поклоняется Аллаху — то Аллах Жив и не умирает».",
+   "imgs": [
+    27
+   ],
+   "badge": {
+    "ru": "Аль-Бухари, 1241"
+   }
+  },
+  {
+   "id": "c5c",
+   "text": "И прочитал аят: «Мухаммад — всего лишь Посланник. До него тоже были посланники…»",
+   "imgs": [
+    28
+   ],
+   "badge": {
+    "ar": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ",
+    "ru": "Коран, 3:144"
+   }
+  },
+  {
+   "id": "c5d",
+   "text": "Пророк ушёл. Но то, ради чего он жил, осталось. Осталось — нам.",
+   "imgs": [
+    29
+   ],
+   "pause": 1.0
+  },
+  {
+   "id": "c5e",
+   "text": "Он терпел голод. Терпел насмешки. Терпел, когда его прогоняли. Не ради себя. Ради того, чтобы через четырнадцать веков ты знал, как встать на намаз. Подумай об этом в следующий раз, когда будешь лениться.",
+   "imgs": [
+    30,
+    31
+   ],
+   "pause": 1.2
+  },
+  {
+   "id": "c6a",
+   "text": "Одними из последних его наставлений были слова: «Намаз… намаз… И бойтесь Аллаха в отношении тех, кто в вашей власти».",
+   "imgs": [
+    32
+   ],
+   "badge": {
+    "ru": "Абу Дауд, 5156 · Ибн Маджа, 2698 (аль-Албани — достоверный)"
+   },
+   "chapter": "Что он нам оставил"
+  },
+  {
+   "id": "c6b",
+   "text": "Намаз. Он говорил о нём, прощаясь с этим миром. А мы… откладываем его. Ради сериала. Ради сна. Ради «потом».",
+   "imgs": [
+    33,
+    34
+   ]
+  },
+  {
+   "id": "c6c",
+   "text": "И ещё он оставил нам простое. Он сказал: «Кто благословит меня один раз, того Аллах благословит десять раз».",
+   "imgs": [
+    35
+   ],
+   "badge": {
+    "ru": "Сахих Муслим, 408"
+   }
+  },
+  {
+   "id": "c6d",
+   "text": "Один раз — и десять в ответ. Вот насколько щедро то, что он нам оставил. А сколько раз за сегодня ты вспомнил о нём?",
+   "imgs": [
+    36
+   ],
+   "pause": 1.2
+  },
+  {
+   "id": "c7a",
+   "text": "Помнишь, с чего мы начали? «Наши братья — те, кто ещё не пришёл». В том же хадисе он сказал, что опередит нас у своего водоёма. Он будет ждать.",
+   "imgs": [
+    37
+   ],
+   "badge": {
+    "ru": "Сахих Муслим, 249"
+   },
+   "chapter": "Встреча"
+  },
+  {
+   "id": "c7b",
+   "text": "Когда ты встретишь его… с чем ты придёшь? С пропущенными намазами? Или с сердцем, которое старалось?",
+   "imgs": [
+    38
+   ],
+   "pause": 1.2
+  },
+  {
+   "id": "c7c",
+   "text": "Не нужно быть идеальным. Нужно возвращаться. Каждый раз — возвращаться.",
+   "imgs": [
+    39
+   ]
+  },
+  {
+   "id": "c7d",
+   "text": "Прямо сейчас скажи: «Аллахумма салли аля Мухаммад». Хотя бы десять раз. А следующий намаз соверши вовремя. Ради Аллаха.",
+   "imgs": [
+    40
+   ]
+  },
+  {
+   "id": "c7e",
+   "text": "И чтобы не было стыдно встретиться с тем… кто скучал по тебе.",
+   "imgs": [
+    41
+   ],
+   "pause": 1.6
+  },
+  {
+   "id": "end",
+   "text": "Аллахумма салли ва саллим аля набиййина Мухаммад.",
+   "imgs": [
+    42
+   ],
+   "badge": {
+    "ru": "О Аллах, благослови и приветствуй нашего Пророка Мухаммада"
+   },
+   "pause": 4.0
+  }
+ ],
+ "style": "cinematic 16:9 digital painting, Arabian desert setting with Islamic architecture, deep indigo blue tones and warm golden light, soft haze, high detail, reverent and calm, no people, no faces, no hands, no animals, no birds, no text, no letters, no writing, no crosses, no churches, no statues, no tombstones",
+ "images": [
+  "date palm grove at dusk outside an ancient Arabian mud-brick town, warm last light, deep blue sky, mist",
+  "a single warm light glowing in the small window of an ancient Arabian mud-brick house at night, stars above",
+  "a long sandy path leading from an ancient desert town toward a distant horizon where dawn is just beginning",
+  "an old brass oil lamp burning on a wooden windowsill, night desert landscape outside, calm",
+  "a closed leather-bound book on a low wooden table beside a small brass oil lamp, warm light, dark room",
+  "a vast empty desert valley surrounded by rocky mountains at sunrise, golden haze",
+  "small smooth pebbles on sand in warm morning light, close up, shallow depth of field",
+  "simple white tents scattered across a vast desert plain at dusk seen from far away, soft haze, empty",
+  "a long empty desert road toward distant mountains at sunset, farewell mood",
+  "a prayer rug in a quiet modern bedroom at dusk, warm lamp light, reflective mood",
+  "ancient Arabian mud-brick houses among date palms at dawn, soft mist, Islamic desert architecture",
+  "a simple room with mud-brick walls, a woven mat on the floor, a small window with pale light, stillness",
+  "rows of simple woven prayer mats on the sandy floor of an ancient mosque with palm-trunk pillars and a palm-leaf roof, dawn light, empty",
+  "a simple cloth curtain in a mud-brick doorway gently lifted, soft golden dawn light glowing behind it",
+  "a simple cloth curtain hanging still in a mud-brick doorway, dim light, quiet",
+  "the sun rising over a silent desert town with date palms, light veiled by haze, solemn",
+  "an ancient mosque with palm-trunk pillars filled with soft morning light, empty prayer rows, peaceful",
+  "an empty dusty palace hall with piles of gold coins and treasures in darkness, abandoned, emptiness",
+  "a modern mosque interior at dawn with empty prayer rows, one space in the front row lit by a ray of light from a window",
+  "an old clay water vessel on a woven mat, ripples on the water surface, dim warm light",
+  "water droplets falling into a clay bowl, slow, dark background, a thin beam of light",
+  "a single date palm standing alone in the desert under a heavy grey sky, solemn",
+  "a quiet mud-brick room at dusk with light fading through a small window, a folded blanket on a woven mat",
+  "an hourglass on a modern desk at night next to a glowing smartphone, the sand almost run out",
+  "a night sky full of stars above a silent palm grove, a faint soft light rising upward, peaceful",
+  "a brass oil lamp flame slowly going out, a thin wisp of smoke, darkness",
+  "narrow empty lanes of an ancient Arabian mud-brick town under an overcast grey sky, wind blowing sand, grief",
+  "the courtyard of an ancient mosque with palm-trunk pillars under a grey sky, wind, empty",
+  "dark clouds parting over a desert town with date palms, a single ray of light breaking through",
+  "footprints in desert sand leading toward the sunrise",
+  "a dry rocky mountain path under the harsh desert sun, hardship",
+  "a mountain pass at sunset with a narrow trail winding down toward a green valley, endurance",
+  "a prayer rug unrolled in a quiet room at night, a single lamp, an open window with stars",
+  "a smartphone glowing on a sofa in a dark living room at night beside a folded unused prayer rug",
+  "a tablet and an alarm clock glowing on a bedside table at night, an unused prayer rug in the dark corner",
+  "prayer beads resting on an open window sill, golden dawn light",
+  "rays of golden light falling across a quiet room, dust particles glowing, gentle",
+  "a calm spring of clear water in a desert oasis at dawn, light reflecting on the surface, date palms around",
+  "a vast plain under a dramatic dawn sky, a long path leading toward a bright light on the horizon",
+  "a small green sprout growing from desert sand in morning light, hope",
+  "prayer beads on a windowsill and an open window with sunrise light over a desert town with a minaret",
+  "a prayer rug in the first ray of morning light, ready for prayer, quiet room",
+  "sunrise over the desert, the sky turning from deep blue to gold, date palm silhouettes"
+ ]
+}

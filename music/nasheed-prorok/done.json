@@ -1,0 +1,26 @@
+{
+ "id": "gen_2227760389953425409",
+ "object": "media.generation",
+ "status": "completed",
+ "created": 1793443506,
+ "model": "suno/generate",
+ "data": [
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_8fe22b7e75afbf99.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_f701f5da8e266f4c.jpg",
+   "title": "Тоска по любимому",
+   "duration": 239.96
+  },
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_0fd812b9a430cc98.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_549f84e1e54e6a5f.jpg",
+   "title": "Тоска по любимому",
+   "duration": 239.6
+  }
+ ],
+ "usage": {
+  "output_units": 2,
+  "cost_rub": 15,
+  "cost": 15
+ }
+}

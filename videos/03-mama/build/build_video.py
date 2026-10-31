@@ -82,7 +82,7 @@ for s in sc:
         filt.append(f"[{cur}][bd{bi}]overlay=0:0:enable='between(t,{a:.2f},{b:.2f})'[o{bi}]"); cur = f'o{bi}'; bi += 1
 filt.append(f"[{cur}][subs]overlay=0:0:eof_action=pass,fade=in:st=0:d=0.4,fade=out:st={total-0.8:.2f}:d=0.8[vout]")
 inputs += ['-i', A + '/voice.wav']; vi = bi
-afilt = (f"[{vi}:a]loudnorm=I=-16:TP=-1.5:LRA=7,aresample=48000,apad=whole_dur={total:.2f}[vo];"
+afilt = (f"[{vi}:a]highpass=f=70,deesser=i=0.5:m=0.5:f=0.5,equalizer=f=5000:t=q:w=1.4:g=-3.5,equalizer=f=9000:t=q:w=1.0:g=-3,equalizer=f=180:t=q:w=1.0:g=2,acompressor=threshold=0.1:ratio=2.5:attack=15:release=200,loudnorm=I=-16:TP=-1.5:LRA=7,aresample=48000,apad=whole_dur={total:.2f}[vo];"
          f"anoisesrc=color=pink:amplitude=0.5:sample_rate=48000:duration={total:.2f},highpass=f=80,lowpass=f=900,volume=0.035,afade=t=in:d=1.5,afade=t=out:st={total-1.5:.2f}:d=1.5[amb];"
          f"[vo][amb]amix=inputs=2:normalize=0,alimiter=limit=0.95[aout]")
 os.makedirs(os.path.dirname(OUTF), exist_ok=True)

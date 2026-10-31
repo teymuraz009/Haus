@@ -35,7 +35,7 @@ for sc in S['scenes']:
     f = f"{OUT}/{sc['id']}.wav"
     if os.path.exists(f): continue
     guard(1.5)
-    d = post('/v1/audio/speech', {'model': 'elevenlabs/eleven-v4', 'input': sc['text'], 'voice': 'adam'})
+    d = post('/v1/audio/speech', {'model': 'elevenlabs/eleven-v4', 'input': sc['text'], 'voice': S.get('voice', 'adam')})
     w = wave.open(f, 'wb'); w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000)
     w.writeframes(base64.b64decode(d['audio'])); w.close()
     st['spent'] += d['usage']['cost_rub']; save(); print(sc['id'], d['duration'], d['usage']['cost_rub'])

@@ -1,8 +1,8 @@
-# usage: python3 add_nasheed.py <video.mp4> <nasheed.mp3> <out.mp4> [loudness LUFS, default -21]
+# usage: python3 add_nasheed.py <video.mp4> <nasheed.mp3> <out.mp4> [loudness LUFS, default -17]
 # Mixes a quiet vocal-only nasheed under the existing voiceover, ducked while the voice speaks.
 import subprocess, sys
 V, N, OUT = sys.argv[1:4]
-LUFS = float(sys.argv[4]) if len(sys.argv) > 4 else -21
+LUFS = float(sys.argv[4]) if len(sys.argv) > 4 else -17
 dur = float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', V]))
 f = (f"[0:a]asplit[vo][key];"
      f"[1:a]atrim=0:{dur:.2f},asetpts=PTS-STARTPTS,loudnorm=I={LUFS}:TP=-3,aresample=48000,"

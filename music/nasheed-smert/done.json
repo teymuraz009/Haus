@@ -1,0 +1,26 @@
+{
+ "id": "gen_2227730790783389697",
+ "object": "media.generation",
+ "status": "completed",
+ "created": 1793436445,
+ "model": "suno/generate",
+ "data": [
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_bd33c3299db0524c.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_dcaf1bc203e05d22.jpg",
+   "title": "Тишина после",
+   "duration": 94.8
+  },
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_01df3178a582a25a.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_7a221a3d23627279.jpg",
+   "title": "Тишина после",
+   "duration": 94.76
+  }
+ ],
+ "usage": {
+  "output_units": 2,
+  "cost_rub": 15,
+  "cost": 15
+ }
+}

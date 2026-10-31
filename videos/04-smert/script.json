@@ -1,0 +1,146 @@
+{
+ "title": "Первый день после твоей смерти",
+ "voice": "brian",
+ "gap": 0.7,
+ "scenes": [
+  {
+   "id": "s1",
+   "text": "Однажды… твой телефон ещё будет вибрировать. А ты уже не ответишь.",
+   "imgs": [
+    0
+   ]
+  },
+  {
+   "id": "s2",
+   "text": "Чай на столе остынет. Твою кровать заправят. А о тебе начнут говорить… в прошедшем времени.",
+   "imgs": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "s3",
+   "text": "Аллах говорит: каждая душа вкусит смерть.",
+   "imgs": [
+    3
+   ],
+   "badge": {
+    "ar": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ",
+    "ru": "Коран, 3:185"
+   }
+  },
+  {
+   "id": "n1",
+   "text": "Аллах говорит: и придёт опьянение смерти с истиной… Вот то, от чего ты убегал.",
+   "imgs": [
+    12
+   ],
+   "badge": {
+    "ar": "وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ",
+    "ru": "Коран, 50:19"
+   }
+  },
+  {
+   "id": "s4",
+   "text": "Пророк, мир ему и благословение Аллаха, сказал: за умершим идут трое. Семья, имущество и дела. Двое вернутся… А останутся с ним только его дела.",
+   "imgs": [
+    5
+   ],
+   "badge": {
+    "ru": "Аль-Бухари, 6514 · Муслим, 2960"
+   }
+  },
+  {
+   "id": "s5",
+   "text": "Не машина. Не деньги. Не подписчики. Только то, что ты сделал.",
+   "imgs": [
+    6
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Пророк, мир ему и благословение Аллаха, наставлял: будь в этом мире, как чужестранец… или путник.",
+   "imgs": [
+    13
+   ],
+   "badge": {
+    "ru": "Аль-Бухари, 6416"
+   }
+  },
+  {
+   "id": "n3",
+   "text": "И говорил: почаще вспоминайте разрушительницу наслаждений… смерть.",
+   "imgs": [
+    4
+   ],
+   "badge": {
+    "ru": "Ат-Тирмизи, 2307"
+   }
+  },
+  {
+   "id": "s6",
+   "text": "И тогда человек попросит: Господи… верни меня. Чтобы я сделал добро в том, что оставил.",
+   "imgs": [
+    7
+   ],
+   "badge": {
+    "ar": "رَبِّ ارْجِعُونِ لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ",
+    "ru": "Коран, 23:99–100"
+   }
+  },
+  {
+   "id": "s7",
+   "text": "А ты… ещё здесь. Ты ещё дышишь. Ещё можешь встать на намаз. Ещё можешь попросить прощения.",
+   "imgs": [
+    8
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Пророк сказал: Аллах принимает покаяние раба… пока не начнётся предсмертный хрип.",
+   "imgs": [
+    9
+   ],
+   "badge": {
+    "ru": "Ат-Тирмизи, 3537"
+   }
+  },
+  {
+   "id": "n5",
+   "text": "И Аллах говорит: о рабы Мои, которые преступили меру во вред себе… не отчаивайтесь в милости Аллаха. Воистину, Аллах прощает все грехи.",
+   "imgs": [
+    14,
+    10
+   ],
+   "badge": {
+    "ar": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا",
+    "ru": "Коран, 39:53"
+   }
+  },
+  {
+   "id": "s8",
+   "text": "Не откладывай на завтра. Сегодня ты ещё можешь то… о чём другие уже только просят.",
+   "imgs": [
+    11
+   ]
+  }
+ ],
+ "style": "cinematic vertical 9:16 illustration, cold blue-grey dawn tones with a single soft warm light accent, quiet, solemn and contemplative mood, gentle mist, high detail, no people, no faces, no hands, no animals, no text, no letters, no writing, no inscriptions, no crosses, no religious symbols",
+ "images": [
+  "a smartphone on a bedside table in a dark empty bedroom, its screen glowing softly with incoming notifications, shallow depth of field",
+  "a cup of tea gone cold on a windowsill, no steam, grey early morning light, rain drops on the glass",
+  "a neatly made empty bed in a quiet room, pillow perfectly smoothed, pale cold morning light through curtains",
+  "an hourglass with the last few grains of sand falling, dark background, a thin beam of light",
+  "a traditional Muslim cemetery at dawn in the Caucasus, simple low rectangular earth graves with plain narrow upright flat stone markers, dry grass, cypress trees, soft mist, absolutely no crosses, no Christian symbols, no statues, no ornate headstones, no inscriptions",
+  "a narrow dirt path at dawn leading to a simple arched opening in an old stone wall, soft mist, long shadows, dry grass, empty and quiet, no graves, no tombstones, no crosses, no symbols",
+  "car keys, a leather wallet and banknotes left on a dusty table, abandoned, cold light, cobweb",
+  "a single fresh grave mound of earth with a plain stone marker under a starry night sky, mist, solemn, no inscriptions",
+  "a narrow beam of warm light falling into darkness from above, dust particles floating, hope",
+  "a prayer rug in a ray of first morning light in a dark quiet room",
+  "sunrise over a quiet misty valley, warm hopeful light breaking through clouds",
+  "an open window with white curtains gently moving in the morning breeze, golden light streaming in",
+  "an old ornate brass Middle Eastern oil lantern with pierced geometric patterns, its small flame flickering and about to go out, darkness around, a thin wisp of smoke",
+  "a lone empty road through a vast desert at dusk, a single line of footprints in the sand fading into the distance, a traveler's path",
+  "dawn light rays breaking through clouds over the silhouette of a distant mosque dome and minaret, hope and mercy"
+ ]
+}

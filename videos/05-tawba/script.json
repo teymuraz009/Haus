@@ -3,17 +3,87 @@
  "voice": "brian",
  "gap": 0.5,
  "scenes": [
-  {"id":"s1","text":"Ты думаешь, что зашёл слишком далеко… Что Аллах тебя уже не простит.","imgs":[0]},
-  {"id":"s2","text":"Ты обещал себе — и снова сорвался. И стыдно даже поднять руки в дуа.","imgs":[1]},
-  {"id":"s3","text":"Но послушай. Аллах говорит: о сын Адама, если бы твои грехи достигли облаков неба, а потом ты попросил у Меня прощения, — Я простил бы тебя.","imgs":[2],"badge":{"ru":"Хадис кудси · Ат-Тирмизи, 3540"}},
-  {"id":"s4","text":"Пророк, мир ему и благословение Аллаха, сказал: Аллах простирает Свою руку ночью — для того, кто грешил днём. И днём — для того, кто грешил ночью.","imgs":[3],"badge":{"ru":"Сахих Муслим, 2759"}},
-  {"id":"s5","text":"А тем, кто покаялся, Аллах заменит плохие дела — хорошими.","imgs":[4,5],"badge":{"ar":"فَأُولَئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ","ru":"Коран, 25:70"}},
-  {"id":"s6","text":"Дверь открыта. Прямо сейчас.","imgs":[6]},
-  {"id":"s7","text":"Скажи от сердца: Астагфируллах. Соверши омовение… и два ракаата покаяния.","imgs":[7],"badge":{"ru":"Абу Дауд, 1521"}},
-  {"id":"s8","text":"Он ждёт тебя. Вернись.","imgs":[8,9]}
+  {
+   "id": "s1",
+   "text": "Ты думаешь, что зашёл слишком далеко… Что Аллах тебя уже не простит.",
+   "imgs": [
+    0
+   ]
+  },
+  {
+   "id": "s2",
+   "text": "Ты обещал себе — и снова сорвался. И стыдно даже поднять руки в дуа.",
+   "imgs": [
+    1
+   ]
+  },
+  {
+   "id": "s3",
+   "text": "Но послушай. Аллах говорит: о сын Адама, если бы твои грехи достигли облаков неба, а потом ты попросил у Меня прощения, — Я простил бы тебя.",
+   "imgs": [
+    2
+   ],
+   "badge": {
+    "ru": "Хадис кудси · Ат-Тирмизи, 3540"
+   }
+  },
+  {
+   "id": "s4",
+   "text": "Пророк, мир ему и благословение Аллаха, сказал: Аллах простирает Свою руку ночью — для того, кто грешил днём. И днём — для того, кто грешил ночью.",
+   "imgs": [
+    3
+   ],
+   "badge": {
+    "ru": "Сахих Муслим, 2759"
+   }
+  },
+  {
+   "id": "s5",
+   "text": "А тем, кто покаялся, Аллах заменит плохие дела — хорошими.",
+   "imgs": [
+    4,
+    5
+   ],
+   "badge": {
+    "ar": "فَأُولَئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ",
+    "ru": "Коран, 25:70"
+   }
+  },
+  {
+   "id": "s6",
+   "text": "Дверь открыта. Прямо сейчас.",
+   "imgs": [
+    6
+   ]
+  },
+  {
+   "id": "s7",
+   "text": "Пророк, мир ему и благословение Аллаха, сказал: если раб согрешит, а потом хорошо совершит омовение, встанет, помолится два ракаата и попросит у Аллаха прощения, — Аллах простит его.",
+   "imgs": [
+    7
+   ],
+   "badge": {
+    "ru": "Абу Дауд, 1521"
+   }
+  },
+  {
+   "id": "s9",
+   "text": "Так встань прямо сейчас. Омовение. Два ракаата намаза покаяния. А потом — от сердца: Астагфируллах.",
+   "imgs": [
+    10
+   ]
+  },
+  {
+   "id": "s8",
+   "text": "Он ждёт тебя. Вернись.",
+   "imgs": [
+    8,
+    9
+   ]
+  }
  ],
- "style":"cinematic vertical 9:16 illustration, deep blue night tones turning into warm golden dawn light, hopeful, tender and peaceful mood, soft haze, high detail, no people, no faces, no hands, no animals, no birds, no text, no letters, no writing, no crosses, no religious symbols",
- "images":[
+ "style": "cinematic vertical 9:16 illustration, deep blue night tones turning into warm golden dawn light, hopeful, tender and peaceful mood, soft haze, high detail, no people, no faces, no hands, no animals, no birds, no text, no letters, no writing, no crosses, no religious symbols",
+ "images": [
   "a dark lonely room at night, rain streaking down a window, blurred city lights outside, heavy silence",
   "a prayer rug lying folded in a dark corner of a room, covered with a thin layer of dust, forgotten, a faint beam of light touching its edge",
   "heavy dark storm clouds at night with bright moonlight breaking through a gap, rays of light streaming down",
@@ -23,6 +93,7 @@
   "a heavy old wooden door slightly open with warm golden light pouring out into a dark corridor",
   "a stone ablution basin with clear water gently flowing, a prayer rug nearby in the first ray of morning light",
   "sunrise over a mosque dome and minaret, golden light flooding the sky, mist below",
-  "a misty mountain valley at sunrise, warm light breaking through the clouds, peaceful and hopeful"
+  "a misty mountain valley at sunrise, warm light breaking through the clouds, peaceful and hopeful",
+  "a prayer rug unrolled on the floor facing a window with the first light of dawn streaming in, prayer beads beside it, ready for prayer, empty quiet room"
  ]
 }

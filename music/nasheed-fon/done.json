@@ -1,0 +1,26 @@
+{
+ "id": "gen_2227724119397502977",
+ "object": "media.generation",
+ "status": "completed",
+ "created": 1793434846,
+ "model": "suno/generate",
+ "data": [
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_47689fd7d16b0c6a.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_fd59455f0d015884.jpg",
+   "title": "Тихий нашид",
+   "duration": 74.52
+  },
+  {
+   "url": "https://s3.polza.ai/f/222755/2026/10/t_cdfac720a82c80f5.mp3",
+   "thumbnail_url": "https://s3.polza.ai/f/222755/2026/10/t_bfaa16e505a3ff89.jpg",
+   "title": "Тихий нашид",
+   "duration": 74.6
+  }
+ ],
+ "usage": {
+  "output_units": 2,
+  "cost_rub": 15,
+  "cost": 15
+ }
+}

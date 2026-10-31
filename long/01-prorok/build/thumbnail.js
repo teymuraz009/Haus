@@ -14,7 +14,7 @@ const { chromium } = require('playwright'); const fs = require('fs');
   .line{position:absolute;left:74px;top:415px;width:260px;height:4px;background:#F2C46D;border-radius:2px}
   </style></head><body><div class="bg"></div><div class="shade"></div>
   <div class="txt">ОН СКУЧАЛ<br><span>ПО ТЕБЕ</span></div><div class="line"></div>
-  <div class="sub">Последние дни Пророка ﷺ</div></body></html>`);
+  <div class="sub">Последние дни Пророка <span style="font-family:Amiri;font-size:52px;color:#F2C46D;vertical-align:-6px">ﷺ</span></div></body></html>`);
   await p.screenshot({ path: out, type: 'jpeg', quality: 92 });
   await b.close();
 })();
